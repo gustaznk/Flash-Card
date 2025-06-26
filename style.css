@@ -39,11 +39,6 @@ body{
   font-weight: 700;
 }
 
-.cartao_conteudo_resposta p{
-  color: var(--card-back-color);
-  font-weight: 700;
-}
-
 .cartao_conteudo h3{
     color: var(--text-color);
     border: 1px solid var(--text-color);
@@ -86,3 +81,4 @@ footer p{
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
+
